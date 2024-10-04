@@ -3,3 +3,19 @@
     padding: 0px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+h1{
+    text-decoration: underline;
+    text-align: center;
+    margin: 20px 0px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.blog{
+    border: 5px solid pink;
+    width: 40%;
+    margin: auto;
+    margin-top: 20px;
+    padding: 10px;
+    box-shadow: 0px 0px 5px rgb(247, 75, 127);
+}
